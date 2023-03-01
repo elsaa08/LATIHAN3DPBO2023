@@ -113,6 +113,8 @@ print("Asal Universitas         : " + m2.getuniv())
 print("email                    : " + m2.getemail())
 print("NIP                      : " + m2.getnip())
 print("Fakultas                 : " + m2.getfakdosen())
+print("Pendidikan terakhir      : " + m2.getpend())
+print("Keahlian                 : " + m2.getkeahlian())
 print("*Mata kuliah yang diampu : ")
 # looping sebanyak adanya data yang telah masuk sesuai objek
 for i, dsn in enumerate(m2.getcr()):  # ambil komposisi objek pertama
@@ -127,6 +129,8 @@ print("Asal Universitas         : " + m22.getuniv())
 print("email                    : " + m22.getemail())
 print("NIP                      : " + m22.getnip())
 print("Fakultas                 : " + m22.getfakdosen())
+print("Pendidikan terakhir      : " + m22.getpend())
+print("Keahlian                 : " + m22.getkeahlian())
 print("*Mata kuliah yang diampu : ")
 # looping sebanyak adanya data yang telah masuk sesuai objek
 for i, dsn in enumerate(m22.getcr()):  # ambil komposisi objek dosen kedua
