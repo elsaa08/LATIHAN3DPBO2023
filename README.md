@@ -18,8 +18,8 @@ dalan membuat program ini, terdiri dari beberapa struktur antara lain:
 1. 'class Human' yang menjadi parent pertama kemudian Inheritance dengan 'class Sivitas'
 2. dari class sivitas (yang sudah inheritance dengan class Human), akan menjadi multiple parent dari class Mahasiswa dan class Dosen karena kedua class ini memiliki objek yang sama 
 3. class course akan menjadi class yang berkomposisi dengan class Dosen, class Mahasiswa, dan class Program Studi
-4. class dosen 'has a' class course karena di setiap dosen akan memiliki array of list matakuliah yang diampu nya yang bisa berbeda2 setiap dosennya
-5. class Mahasiswa 'has a' class course karena setiap Mahasiswa memiliki array of list matakuliah yang dikontraknya
+4. class dosen 'has a' class course dan class prodi karena di setiap dosen akan memiliki array of list matakuliah yang diampu nya dan program studi yang bisa berbeda2 setiap dosennya
+5. class Mahasiswa 'has a' class course dan class prodi karena setiap Mahasiswa memiliki array of list matakuliah yang dikontraknya dan program studi
 6. class program studi 'has a' class course karena setiap program studi memiliki matakuliah, dan setiap program studi memiliki matakuliah yang berbeda-beda
 
 ## penjelasan Alur kode program
@@ -45,12 +45,12 @@ ada 2 objek class prodi, kemudian disetiap objeknya dapat menampung list dari co
 
 ## dokumentasi 
 1. class prodi
-<img width="367" alt="image" src="https://user-images.githubusercontent.com/101001227/223422251-bf1fa90d-103b-479b-9b25-ee48ab7d0774.png">
+<img width="349" alt="image" src="https://user-images.githubusercontent.com/101001227/223448499-55141c4e-f54b-432d-9487-7e0b35d482c5.png">
 2. class Mahasiswa
-<img width="369" alt="image" src="https://user-images.githubusercontent.com/101001227/223422421-56222b0c-9ed2-4150-b43f-56dfb60efd23.png">
+<img width="424" alt="image" src="https://user-images.githubusercontent.com/101001227/223448667-014e4b8a-7955-4b4e-8936-cad7c0de06f9.png">
 3. class Dosen 
-<img width="264" alt="image" src="https://user-images.githubusercontent.com/101001227/223422498-3cbc62fc-179e-4696-9e34-a8de3ab6843a.png">
+<img width="374" alt="image" src="https://user-images.githubusercontent.com/101001227/223448811-308a38a3-7fd2-42c8-a6a8-a4effef7aa8e.png">
 
 ## implementasi diagram
 
-![Untitled Diagram (5)](https://user-images.githubusercontent.com/101001227/223423338-29c2a2b7-6405-405e-b071-153a3a48ed38.jpg)
+![Untitled Diagram (6)](https://user-images.githubusercontent.com/101001227/223450039-fd2671ee-04bf-4310-b9e3-1a3024bf6f80.jpg)
