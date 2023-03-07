@@ -28,9 +28,9 @@ dalan membuat program ini, terdiri dari beberapa struktur antara lain:
 2. prosedur tambahan untuk menampilkan output permasing-masing class 
 - Class mahasiswa
 <img width="214" alt="image" src="https://user-images.githubusercontent.com/101001227/223420813-ba5f5983-7134-431a-8b7e-a89966cb8e18.png">
--Class Dosen
+- Class Dosen
 <img width="176" alt="image" src="https://user-images.githubusercontent.com/101001227/223421070-de60f1ac-15b4-4c4c-a9b0-4f4a65fb81e5.png">
--Class Prodi
+- Class Prodi
 <img width="178" alt="image" src="https://user-images.githubusercontent.com/101001227/223421178-a8f5df3d-c978-482c-913c-b3f459b5afe1.png">
 
 3. membuat vector untuk menjadi list tampungan
