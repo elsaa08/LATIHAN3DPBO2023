@@ -22,7 +22,7 @@ dalan membuat program ini, terdiri dari beberapa struktur antara lain:
 5. class Mahasiswa 'has a' class course karena setiap Mahasiswa memiliki array of list matakuliah yang dikontraknya
 6. class program studi 'has a' class course karena setiap program studi memiliki matakuliah, dan setiap program studi memiliki matakuliah yang berbeda-beda
 
-##penjelasan Alur kode program
+## penjelasan Alur kode program
 1. setter gether method di setiap class
 
 2. prosedur tambahan untuk menampilkan output permasing-masing class 
@@ -43,7 +43,7 @@ dalan membuat program ini, terdiri dari beberapa struktur antara lain:
 <img width="401" alt="image" src="https://user-images.githubusercontent.com/101001227/223421622-db18c618-6f06-40eb-8532-d7c10c78ba9a.png">
 ada 2 objek class prodi, kemudian disetiap objeknya dapat menampung list dari course sesuai yang dibutuhkan
 
-##dokumentasi 
+## dokumentasi 
 1. class prodi
 <img width="367" alt="image" src="https://user-images.githubusercontent.com/101001227/223422251-bf1fa90d-103b-479b-9b25-ee48ab7d0774.png">
 2. class Mahasiswa
@@ -51,5 +51,6 @@ ada 2 objek class prodi, kemudian disetiap objeknya dapat menampung list dari co
 3. class Dosen 
 <img width="264" alt="image" src="https://user-images.githubusercontent.com/101001227/223422498-3cbc62fc-179e-4696-9e34-a8de3ab6843a.png">
 
-##implementasi diagram
+## implementasi diagram
+
 ![Untitled Diagram (5)](https://user-images.githubusercontent.com/101001227/223423338-29c2a2b7-6405-405e-b071-153a3a48ed38.jpg)
