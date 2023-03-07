@@ -52,5 +52,5 @@ ada 2 objek class prodi, kemudian disetiap objeknya dapat menampung list dari co
 <img width="374" alt="image" src="https://user-images.githubusercontent.com/101001227/223448811-308a38a3-7fd2-42c8-a6a8-a4effef7aa8e.png">
 
 ## implementasi diagram
+![UML (final)](https://user-images.githubusercontent.com/101001227/223454533-539093a2-c9bd-4bd9-8c63-2b2a5ba98392.jpg)
 
-![Untitled Diagram (6)](https://user-images.githubusercontent.com/101001227/223450039-fd2671ee-04bf-4310-b9e3-1a3024bf6f80.jpg)
